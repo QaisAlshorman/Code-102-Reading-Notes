@@ -1,22 +1,26 @@
-## what is Git?
+## [What is Markdown?](https://guides.github.com/features/mastering-markdown/)
 
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-### Snapshots
+### You can use Markdown most places around GitHub:
 
-Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+1. Gists
+2. Comments in Issues and Pull Requests
+3. Files with the .md or .markdown extension
 
-### Local Operations
+### GitHub Flavored Markdown
 
-Git mostly relies on local operations because most necessary information can be found in local resources. This allows for process expediency because a project’s history resides on the local disk, eliminating the need to fetch history information from the server, and allowing one to continue work on a project even when not online or on a VPN.
+GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
-### Tracking Changes
+Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
+1. Syntax highlighting 
+2. Task Lists
+3. Tables
+4. SHA references
+5. Username @mentions
+6. Automatic linking for URLs
+7. Strikethrough
+8. Emoji 
 
-Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit.
-
-### Loss of Data
-
-Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
-
-### States
-
-Files in Git can reside in three main states: committed, modified and staged.
+### [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+u can press the link to show up details 
