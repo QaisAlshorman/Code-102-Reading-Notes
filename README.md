@@ -6,4 +6,4 @@ I have been graduated from Jordan University of science and technology in 2013, 
  
 |Markdown     |[Mark down](https://qaisalshorman.github.io/Code-102-Reading-Notes/mark%20down%20)   |
 |-------------| -------------- |
-|Class01      |[class01]()     |
+|Class01      |[class01](https://qaisalshorman.github.io/Code-102-Reading-Notes/class01)     |
