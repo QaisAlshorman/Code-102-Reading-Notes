@@ -11,4 +11,4 @@ I have been graduated from Jordan University of science and technology in 2013, 
 |Read: 03         |[Read: 03](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:%2003)    |
 |Read: 04     |[Read: 04](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:%2004)      |
 |Read:05      |[Read: 05](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:05)    |
-|Read:06      |[Read:06]()     | 
+|Read:06      |[Read:06](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:06)     | 
