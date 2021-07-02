@@ -6,11 +6,12 @@ I have been graduated from Jordan University of science and technology in 2013, 
  
 |Markdown     |[Mark down](https://qaisalshorman.github.io/Code-102-Reading-Notes/mark%20down%20)   |
 |-------------| -------------- |
-|Class01      |[class01](https://qaisalshorman.github.io/Code-102-Reading-Notes/class01)     |
-|Class02      |[class02](https://qaisalshorman.github.io/Code-102-Reading-Notes/class-2)                |
-|Read: 03         |[Read: 03](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:%2003)    |
-|Read: 04     |[Read: 04](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:%2004)      |
-|Read:05      |[Read: 05](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:05)    |
+|Read:01      |[Read:01](https://qaisalshorman.github.io/Code-102-Reading-Notes/class01)     |
+|Read:02      |[Read:02](https://qaisalshorman.github.io/Code-102-Reading-Notes/class-2)                |
+|Read:03         |[Read:03](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:%2003)    |
+|Read:04     |[Read:04](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:%2004)      |
+|Read:05      |[Read:05](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:05)    |
 |Read:06      |[Read:06](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:06)     | 
 |Read:07      |[Read:07](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read07)     |
 |Read:08      |[Read:08](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read08)       |
+|Read:09      |[Read:09](https://qaisalshorman.github.io/Code-102-Reading-Notes/Read:09)     |
